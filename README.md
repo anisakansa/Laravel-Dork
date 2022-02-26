@@ -7,11 +7,13 @@ apt update && apt upgrade -y
 ```
 apt install bash
 ```
-#Usage
+# Usage
+
 • Usage Commant
 ```
 bash DorkIp.sh
 ```
+
 • Usage Dork
 ```
 [+] Input Dork : laravel
