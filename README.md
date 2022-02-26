@@ -8,7 +8,6 @@ apt update && apt upgrade -y
 apt install bash
 ```
 # Usage
-
 • Usage Commant
 ```
 bash DorkIp.sh
